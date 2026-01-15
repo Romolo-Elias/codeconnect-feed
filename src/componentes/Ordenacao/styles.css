@@ -1,0 +1,20 @@
+.container-ordenacao {
+    width: 996px;
+    height: 33px;
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+
+.container-ordenacao a {
+    font-family: var(--font);
+    font-size: 22px;
+    color: var(--verde-destaque)
+}
+
+
+.container-ordenacao span {
+    font-family: var(--font);
+    font-size: 22px;
+    color: var(--cinza-medio);
+}
